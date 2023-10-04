@@ -1,5 +1,5 @@
 # Sistema de Gestão de corridas de cavalos
-Introdução do trabalho...
+Este é um projeto de sistema de suporte ao processo de gestão de corridas de cavalos desenvolvido como parte de um trabalho acadêmico. O sistema foi projetado para auxiliar uma Associação de Amigos Criadores de Cavalos de Corrida (A2C3) na organização de um campeonato de corridas de cavalos.
 ## Entidades Principais
 - **Quadra**: Representa as quadras que participam do campeonato. Cada quadra tem um nome, localidade e uma quantidade de cavalos associados.
 - **Participante**: Representa cavalos e seus respectivos jockeys. As informações incluem o nome do cavalo, sexo, idade, número de contribuinte do jockey e a quadra à qual pertencem.
